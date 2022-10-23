@@ -9,18 +9,18 @@
 
 
 <h5>글쓰기 및 조회</h5>
-  ![write](https://user-images.githubusercontent.com/87887586/197376779-c7f50076-7f02-43ab-92a8-f2d0f07dc840.gif)
+<img width="500" src="https://user-images.githubusercontent.com/87887586/197376779-c7f50076-7f02-43ab-92a8-f2d0f07dc840.gif"/>
   
 <h5>글수정 및 삭제</h5>
- ![updateDelete](https://user-images.githubusercontent.com/87887586/197376791-8b427791-df68-4533-8523-a6227b5876e5.gif)
+<img width="500" src="https://user-images.githubusercontent.com/87887586/197376791-8b427791-df68-4533-8523-a6227b5876e5.gif"/>
 
 
 <h5>페이지 처리</h5>
-![paging](https://user-images.githubusercontent.com/87887586/197376799-56142bbf-cd6d-43bd-805e-547c745d61c7.gif)
+<img width="500" src="https://user-images.githubusercontent.com/87887586/197376799-56142bbf-cd6d-43bd-805e-547c745d61c7.gif" />
 
 
 <h5>댓글쓰기 및 댓글삭제</h5>
-![replywriteDelete](https://user-images.githubusercontent.com/87887586/197376806-96e53bf2-da2d-4563-bb4a-a60b87ecba99.gif)
+<img width="500" src="https://user-images.githubusercontent.com/87887586/197376806-96e53bf2-da2d-4563-bb4a-a60b87ecba99.gif" />
 
 
 
